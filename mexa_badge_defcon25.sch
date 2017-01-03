@@ -38,12 +38,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "BadgeInventorsCon"
-Date "2015-12-16"
-Rev "0.08"
-Comp "The Inventor's House"
+Title "BadgeMexa"
+Date "2017-03-01"
+Rev "0.01"
+Comp "ElectronicCats"
 Comment1 "Andrés Sabas"
-Comment2 "Eduardo Contreras "
+Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
