@@ -1,4 +1,4 @@
-update=martes, 03 '03e' enero '03e' 2017, 10:51:10
+update=martes, 03 '03e' enero '03e' 2017, 14:18:11
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=/Users/sabas/Documents/Kicad Librerias/kicad-ESP8266/ESP8266
 LibName31=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/theinventorhouse
 LibName32=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/ws2812b
+LibName33=/Users/sabas/Documents/proyectoshd/LoRaKittyCat/Library/MCP73831T-2ATI_OT
