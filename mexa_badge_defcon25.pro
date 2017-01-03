@@ -1,4 +1,4 @@
-update=martes, 03 '03e' enero '03e' 2017, 14:18:11
+update=martes, 03 '03e' enero '03e' 2017, 14:58:16
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=/Users/sabas/Documents/Kicad Librerias/kicad-ESP8266/ESP8266
 LibName31=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/theinventorhouse
 LibName32=/Users/sabas/Documents/Kicad Librerias/KicadLibrary/ws2812b
 LibName33=/Users/sabas/Documents/proyectoshd/LoRaKittyCat/Library/MCP73831T-2ATI_OT
+LibName34=/Users/sabas/Documents/proyectoshd/InventorsBadge/badgeInventor-cache
